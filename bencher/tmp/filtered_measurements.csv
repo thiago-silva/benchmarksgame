@@ -1,0 +1,4 @@
+name,lang,id,n,size(B),cpu(s),mem(KB),status,load,elapsed(s)
+nbody,java,2,50000,1540,0.000,0,-11,%,0.000
+nbody,python,1,50000,1235,0.604,6948,0,0% 2% 0% 0% 0% 0% 0% 100%,0.607
+regexdna,python,1,10000,422,0.032,0,0,0% 0% 0% 0% 0% 0% 100% 0%,0.033

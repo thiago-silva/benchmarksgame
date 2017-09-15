@@ -1,0 +1,17 @@
+2017-09-15 19:13:00,445 DEBUG highlight program not found
+2017-09-15 19:13:00,445 DEBUG mkdir /home/thiago/Downloads/benchmarksgame-2014-08-31/benchmarksgame/bencher/tmp/nbody
+2017-09-15 19:13:00,446 DEBUG mkdir /home/thiago/Downloads/benchmarksgame-2014-08-31/benchmarksgame/bencher/tmp/nbody/log
+2017-09-15 19:13:00,446 DEBUG mkdir /home/thiago/Downloads/benchmarksgame-2014-08-31/benchmarksgame/bencher/tmp/nbody/dat
+2017-09-15 19:13:00,446 DEBUG mkdir /home/thiago/Downloads/benchmarksgame-2014-08-31/benchmarksgame/bencher/tmp/nbody/code
+2017-09-15 19:13:00,447 DEBUG mkdir /home/thiago/Downloads/benchmarksgame-2014-08-31/benchmarksgame/bencher/tmp/regexdna/log
+2017-09-15 19:13:00,447 DEBUG mkdir /home/thiago/Downloads/benchmarksgame-2014-08-31/benchmarksgame/bencher/tmp/regexdna/dat
+2017-09-15 19:13:00,447 DEBUG mkdir /home/thiago/Downloads/benchmarksgame-2014-08-31/benchmarksgame/bencher/tmp/regexdna/code
+2017-09-15 19:13:00,458 WARNING No such file or directory ['/usr/local/src/jdk1.6.0_25/bin/java', '-server', 'nbody', '10000']
+2017-09-15 19:13:00,459 INFO .MAKE ERROR nbody.java-2.java [3]
+2017-09-15 19:13:05,394 INFO .....OK .....nbody.python [2]
+2017-09-15 19:13:05,608 INFO .OK .....regexdna.python [1]
+2017-09-15 19:13:05,609 INFO mkcsv building csv files from nbody/dat
+2017-09-15 19:13:05,609 INFO mkcsv building csv files from regexdna/dat
+2017-09-15 19:13:05,610 INFO copy *.csv files to /home/thiago/Downloads/benchmarksgame-2014-08-31/benchmarksgame/bencher/summary
+2017-09-15 19:13:05,610 INFO copy *.code files to /home/thiago/Downloads/benchmarksgame-2014-08-31/benchmarksgame/bencher/run_markup
+2017-09-15 19:13:05,610 INFO copy *.log files to /home/thiago/Downloads/benchmarksgame-2014-08-31/benchmarksgame/bencher/run_logs

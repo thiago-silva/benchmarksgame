@@ -1,0 +1,16 @@
+
+Fri, 15 Sep 2017 22:13:00 GMT
+
+MAKE:
+mv nbody.java-2.java nbody.java
+/usr/local/src/jdk1.6.0_25/bin/javac nbody.java
+make: /usr/local/src/jdk1.6.0_25/bin/javac: Command not found
+/home/thiago/Downloads/benchmarksgame-2014-08-31/benchmarksgame/bencher/makefiles/my.linux.Makefile:29: recipe for target 'nbody.java-2.java_run' failed
+make: [nbody.java-2.java_run] Error 127 (ignored)
+0.01s to complete and log all make actions
+
+COMMAND LINE:
+/usr/local/src/jdk1.6.0_25/bin/java  -server nbody 10000
+
+MAKE ERROR 
+
